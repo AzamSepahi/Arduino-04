@@ -16,8 +16,8 @@
 |6|برد بورد|1|
 ---
 ## شکل شماتیک مدار ها
-![](/imgtest3-2.jpg)
-![](/imgtest3-22.jpg)
+![circut](/imgtest3-2.jpg)
+![circut](/imgtest3-22.jpg)
 
 ## تصویر خود مدار
 
