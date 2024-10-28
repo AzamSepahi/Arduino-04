@@ -7,7 +7,7 @@ void setup() {
 }
 
 void loop() {
-  lcd.print("You Did");
+  lcd.print("Hello N0ghli");
   lcd.setCursor(0, 1);
-  lcd.print("Great Today");
+  lcd.print("Hello mina");
 }
