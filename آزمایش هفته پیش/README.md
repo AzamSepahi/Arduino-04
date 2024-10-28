@@ -16,10 +16,10 @@
 |6|برد بورد|1|
 ---
 ## شکل شماتیک مدار ها
-![circut](/imgtest3-2.jpg)
-![circut](/imgtest3-22.jpg)
+![circut](/Mediia/imgtest3-2.jpg)
+![circut](/Mediia/imgtest3-22.jpg)
 
 ## تصویر خود مدار
 
-![](/pushbutton.jpg)
+![](/Mediia/pushbutton.jpg)
 
